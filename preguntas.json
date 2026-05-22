@@ -1,0 +1,1001 @@
+[
+  {
+    "pregunta": "¿Qué se entiende por hackatón?",
+    "respuesta": "Un evento para desarrollar ideas y soluciones innovadoras en un tiempo corto.",
+    "opciones": [
+      "Una técnica para mejorar la productividad.",
+      "Un evento para desarrollar ideas y soluciones innovadoras en un tiempo corto.",
+      "Un software para diseñar proyectos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué busca la metodología Lean Startup?",
+    "respuesta": "Probar ideas de forma rápida y económica.",
+    "opciones": [
+      "Implementar ideas sin evaluación.",
+      "Probar ideas de forma rápida y económica.",
+      "Desarrollar proyectos sin retroalimentación."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una competencia digital básica?",
+    "respuesta": "Saber buscar y evaluar información.",
+    "opciones": [
+      "Diseñar sitios web complejos.",
+      "Programar en lenguajes avanzados.",
+      "Saber buscar y evaluar información."
+    ]
+  },
+  {
+    "pregunta": "¿Qué define el emprendimiento social?",
+    "respuesta": "Negocios diseñados para abordar problemas sociales y ambientales.",
+    "opciones": [
+      "Negocios sin ánimo de lucro exclusivamente.",
+      "Empresas que operan sin considerar impactos sociales.",
+      "Negocios diseñados para abordar problemas sociales y ambientales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es un intraemprendedor?",
+    "respuesta": "Alguien que desarrolla ideas dentro de su empresa.",
+    "opciones": [
+      "Una persona que funda startups.",
+      "Un consultor externo.",
+      "Alguien que desarrolla ideas dentro de su empresa."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es un prototipo mínimo viable (MVP)?",
+    "respuesta": "Una versión inicial de un producto para obtener retroalimentación.",
+    "opciones": [
+      "Una versión inicial de un producto para obtener retroalimentación.",
+      "Un producto terminado y comercializado.",
+      "Un proyecto finalizado."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la creatividad?",
+    "respuesta": "La capacidad de encontrar soluciones originales.",
+    "opciones": [
+      "La capacidad de encontrar soluciones originales.",
+      "La acción de implementar soluciones.",
+      "Solo un método de gestión."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una característica de las competencias digitales básicas?",
+    "respuesta": "Resolver problemas tecnológicos básicos.",
+    "opciones": [
+      "Crear modelos de negocio avanzados.",
+      "Diseñar sistemas complejos.",
+      "Resolver problemas tecnológicos básicos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa el liderazgo en emprendimiento?",
+    "respuesta": "La capacidad de motivar y dirigir equipos hacia objetivos comunes.",
+    "opciones": [
+      "La capacidad de motivar y dirigir equipos hacia objetivos comunes.",
+      "Solamente delegar tareas.",
+      "El diseño de productos exclusivamente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la innovación en servicios?",
+    "respuesta": "Introducir servicios nuevos o significativamente mejorados.",
+    "opciones": [
+      "Introducir servicios nuevos o significativamente mejorados.",
+      "Cambiar únicamente los precios de un servicio.",
+      "Reducir la calidad para maximizar ganancias."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es un objetivo de los ODS (Objetivos de Desarrollo Sostenible)?",
+    "respuesta": "Erradicar la pobreza.",
+    "opciones": [
+      "Erradicar la pobreza.",
+      "Eliminar la tecnología.",
+      "Crear más productos comerciales."
+    ]
+  },
+  {
+    "pregunta": "¿Cuántos son los objetivos de desarrollo sostenible de la agenda 2030?",
+    "respuesta": "17",
+    "opciones": [
+      "15",
+      "17",
+      "27"
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la innovación en marketing?",
+    "respuesta": "Mejorar el diseño estético de un producto.",
+    "opciones": [
+      "Desarrollar únicamente campañas publicitarias.",
+      "Solo crear nuevos productos.",
+      "Mejorar el diseño estético de un producto."
+    ]
+  },
+  {
+    "pregunta": "¿Qué buscan lograr las estrategias de sostenibilidad ambiental?",
+    "respuesta": "Un equilibrio entre el crecimiento económico, las responsabilidad social y la conservación del medio ambiente.",
+    "opciones": [
+      "Un equilibrio entre el crecimiento económico, las responsabilidad social y la conservación del medio ambiente.",
+      "Solo el crecimiento económico.",
+      "Solo la conservación del medio ambiente."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la co-creación en el trabajo colaborativo?",
+    "respuesta": "Crear soluciones conjuntas mediante debates y lluvia de ideas.",
+    "opciones": [
+      "Dividir tareas sin comunicación.",
+      "Crear soluciones conjuntas mediante debates y lluvia de ideas.",
+      "Trabajar de manera individual para acelerar procesos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa la sostenibilidad en las empresas?",
+    "respuesta": "Un equilibrio entre crecimiento económico, responsabilidad social y ambiental.",
+    "opciones": [
+      "El uso de recursos sin considerar impactos futuros.",
+      "Una política que excluye la rentabilidad económica.",
+      "Un equilibrio entre crecimiento económico, responsabilidad social y ambiental."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes NO es una fase de la entrevista de problema?",
+    "respuesta": "Identificación de oportunidades de inversión.",
+    "opciones": [
+      "Especificación de problemas.",
+      "Identificación de oportunidades de inversión.",
+      "Clasificación de problemas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta se menciona como útil para analizar tendencias del entorno?",
+    "respuesta": "Mapa del Entorno.",
+    "opciones": [
+      "Diagrama de Ishikawa.",
+      "Mapa del Entorno.",
+      "Matriz BCG."
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta ofrece plantillas específicas para análisis DAFO?",
+    "respuesta": "Smartsheet.",
+    "opciones": [
+      "Smartsheet.",
+      "Excel básico sin complementos.",
+      "Power BI."
+    ]
+  },
+  {
+    "pregunta": "¿Qué beneficio aporta el estudio de mercado?",
+    "respuesta": "Identificar oportunidades y nichos de mercado.",
+    "opciones": [
+      "Identificar oportunidades y nichos de mercado.",
+      "Eliminar completamente la competencia.",
+      "Determinar el precio final del producto."
+    ]
+  },
+  {
+    "pregunta": "¿Qué aspecto del modelo de negocio debe actualizarse constantemente para garantizar su competitividad?",
+    "respuesta": "La propuesta de valor y la forma en que se adapta a las necesidades cambiantes de los clientes.",
+    "opciones": [
+      "La propuesta de valor y la forma en que se adapta a las necesidades cambiantes de los clientes.",
+      "La estructura de costos sin considerar cambios en el mercado.",
+      "La identidad visual de la marca sin modificar la oferta de productos o servicios."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué es importante el estudio de la competencia?",
+    "respuesta": "Para entender cómo están evolucionando las dinámicas del mercado.",
+    "opciones": [
+      "Para entender cómo están evolucionando las dinámicas del mercado.",
+      "Para desincentivar la entrada de nuevos competidores.",
+      "Para replicar exactamente sus estrategias."
+    ]
+  },
+  {
+    "pregunta": "¿Qué enfoque es el más adecuado para analizar la competencia en un mercado saturado?",
+    "respuesta": "Estudiar modelos de negocio innovadores y diferenciarse mediante la propuesta de valor.",
+    "opciones": [
+      "Copiar las estrategias más exitosas y aplicarlas sin cambios.",
+      "Estudiar modelos de negocio innovadores y diferenciarse mediante la propuesta de valor.",
+      "Evitar analizar la competencia y centrarse solo en la oferta propia."
+    ]
+  },
+  {
+    "pregunta": "¿Qué factor es fundamental para validar un modelo de negocio en su fase inicial?",
+    "respuesta": "La retroalimentación obtenida en las entrevistas de problema.",
+    "opciones": [
+      "La inversión inicial disponible.",
+      "La cantidad de clientes potenciales identificados sin pruebas de mercado.",
+      "La retroalimentación obtenida en las entrevistas de problema."
+    ]
+  },
+  {
+    "pregunta": "¿Qué aspecto NO es analizado en el Mapa del Entorno?",
+    "respuesta": "Estrategias de marketing digital.",
+    "opciones": [
+      "Tendencias tecnológicas.",
+      "Estrategias de marketing digital.",
+      "Tendencias de consumo."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué es importante identificar patrones en las respuestas de las entrevistas de problema?",
+    "respuesta": "Para descubrir problemas comunes y validar hipótesis de negocio.",
+    "opciones": [
+      "Para ofrecer promociones personalizadas basadas en las respuestas.",
+      "Para adaptar las preguntas a cada cliente individualmente.",
+      "Para descubrir problemas comunes y validar hipótesis de negocio."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el principal propósito del análisis del entorno?",
+    "respuesta": "Conocer tendencias emergentes y actores relevantes en el sector.",
+    "opciones": [
+      "Determinar el nivel de satisfacción de los clientes actuales.",
+      "Crear una estrategia de publicidad más efectiva.",
+      "Conocer tendencias emergentes y actores relevantes en el sector."
+    ]
+  },
+  {
+    "pregunta": "¿Cómo se puede mejorar un modelo de negocio?",
+    "respuesta": "Analizando constantemente el mercado y ajustando la estrategia.",
+    "opciones": [
+      "Manteniéndolo sin cambios para asegurar estabilidad.",
+      "Analizando constantemente el mercado y ajustando la estrategia.",
+      "Copiando a la competencia sin modificar elementos clave."
+    ]
+  },
+  {
+    "pregunta": "¿Qué riesgo conlleva ignorar la transformación digital?",
+    "respuesta": "Pérdida de competitividad",
+    "opciones": [
+      "Pérdida de competitividad",
+      "Reducción de los costes fijos",
+      "Aumento de la productividad"
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento describe mejor la diferencia entre responsabilidad social y creación de valor compartido?",
+    "respuesta": "La responsabilidad social es externa a la actividad empresarial, mientras que el valor compartido está integrado en el modelo de negocio.",
+    "opciones": [
+      "La responsabilidad social es externa a la actividad empresarial, mientras que el valor compartido está integrado en el modelo de negocio.",
+      "La responsabilidad social busca únicamente retorno económico, el valor compartido no.",
+      "Ambas son sinónimos usados en contextos distintos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué estrategia sería más coherente con el enfoque del Design Thinking en un entorno de emprendimiento social?",
+    "respuesta": "Escuchar activamente a los usuarios para redefinir el problema desde sus experiencias.",
+    "opciones": [
+      "Desarrollar un producto basado exclusivamente en datos estadísticos.",
+      "Delegar la etapa de empatía a un consultor externo sin interacción con el usuario final.",
+      "Escuchar activamente a los usuarios para redefinir el problema desde sus experiencias."
+    ]
+  },
+  {
+    "pregunta": "¿Qué forma jurídica permite constituirse con una sola persona?",
+    "respuesta": "Empresario individual",
+    "opciones": [
+      "Empresario individual",
+      "Sociedad anónima",
+      "Sociedad cooperativa"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el papel de los indicadores ambientales como la huella de carbono en la evaluación del impacto empresarial?",
+    "respuesta": "Permiten medir de forma concreta el impacto ambiental para ajustar estrategias sostenibles.",
+    "opciones": [
+      "Permiten medir de forma concreta el impacto ambiental para ajustar estrategias sostenibles.",
+      "Son herramientas cualitativas sin relevancia cuantificable.",
+      "Se utilizan solo en informes destinados a organismos públicos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la creación de valor compartido (CVC)?",
+    "respuesta": "Contribuir a un cambio social mientras se satisfacen necesidades del cliente",
+    "opciones": [
+      "Mejorar exclusivamente la rentabilidad económica",
+      "Subvencionar a otras empresas",
+      "Contribuir a un cambio social mientras se satisfacen necesidades del cliente"
+    ]
+  },
+  {
+    "pregunta": "¿Qué hace que el software ERP sea considerado el “sistema nervioso” de una empresa?",
+    "respuesta": "Centraliza y conecta datos y procesos clave de todas las áreas funcionales.",
+    "opciones": [
+      "Reemplaza completamente a los departamentos operativos.",
+      "Controla únicamente la contabilidad y la facturación.",
+      "Centraliza y conecta datos y procesos clave de todas las áreas funcionales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué busca el análisis de trayectorias del usuario?",
+    "respuesta": "Detectar puntos críticos en la experiencia del usuario",
+    "opciones": [
+      "Simular procesos contables",
+      "Estimar costes de producción",
+      "Detectar puntos críticos en la experiencia del usuario"
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica define a un líder ético?",
+    "respuesta": "Transparencia en la toma de decisiones",
+    "opciones": [
+      "Ambición por el control",
+      "Autoritarismo",
+      "Transparencia en la toma de decisiones"
+    ]
+  },
+  {
+    "pregunta": "¿Qué es un emprendedor?",
+    "respuesta": "Una persona que crea y desarrolla un proyecto empresarial",
+    "opciones": [
+      "Una persona que crea y desarrolla un proyecto empresarial",
+      "Un empleado de banca",
+      "Una persona que trabaja por cuenta ajena"
+    ]
+  },
+  {
+    "pregunta": "¿Qué permite el uso de un software ERP?",
+    "respuesta": "Gestionar integralmente los procesos de una empresa",
+    "opciones": [
+      "Crear campañas publicitarias",
+      "Gestionar integralmente los procesos de una empresa",
+      "Jugar en línea"
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja aporta el liderazgo participativo?",
+    "respuesta": "Mayor satisfacción del personal",
+    "opciones": [
+      "Menor retención de talento",
+      "Menor compromiso de los empleados",
+      "Mayor satisfacción del personal"
+    ]
+  },
+  {
+    "pregunta": "¿Qué describe mejor a un emprendedor?",
+    "respuesta": "Una persona que busca oportunidades de negocio y asume riesgos.",
+    "opciones": [
+      "Alguien que trabaja exclusivamente para una empresa.",
+      "Una persona que busca oportunidades de negocio y asume riesgos.",
+      "Una persona que solo desarrolla ideas creativas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué caracteriza al Design Thinking?",
+    "respuesta": "Su enfoque centrado en las necesidades del usuario.",
+    "opciones": [
+      "Su enfoque centrado en las necesidades del usuario.",
+      "Una técnica exclusiva para marketing.",
+      "Una herramienta para el diseño gráfico."
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia hay entre creatividad e innovación?",
+    "respuesta": "La creatividad genera ideas y la innovación las aplica.",
+    "opciones": [
+      "Ambas son exactamente iguales.",
+      "La creatividad genera ideas y la innovación las aplica.",
+      "La innovación no depende de ideas creativas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la personalización en producción con IA?",
+    "respuesta": "Adaptar productos según las preferencias del cliente.",
+    "opciones": [
+      "Producción en masa idéntica.",
+      "Ignorar preferencias individuales.",
+      "Adaptar productos según las preferencias del cliente."
+    ]
+  },
+  {
+    "pregunta": "¿En qué se centra la innovación sostenible?",
+    "respuesta": "En el diseño y desarrollo de productos y servicios desde una perspectiva a largo plazo.",
+    "opciones": [
+      "En el diseño y desarrollo de productos y servicios desde una perspectiva a largo plazo.",
+      "En diseñar productos y servicios muy baratos.",
+      "En crear productos y servicios que den solución inmediata a lo que demanda el mercado."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la gamificación en las empresas?",
+    "respuesta": "Aplicar dinámicas de juego para fomentar la creatividad y participación.",
+    "opciones": [
+      "Aplicar dinámicas de juego para fomentar la creatividad y participación.",
+      "Implementar videojuegos en las estrategias de marketing.",
+      "Sustituir reuniones por simulaciones interactivas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es el intraemprendimiento?",
+    "respuesta": "Crear proyectos innovadores dentro de una empresa.",
+    "opciones": [
+      "Fundar una empresa nueva fuera de una organización.",
+      "Crear proyectos innovadores dentro de una empresa.",
+      "Gestionar equipos de marketing."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representan los Objetivos de Desarrollo Sostenible?",
+    "respuesta": "Un plan global para erradicar la pobreza y proteger el medio ambiente.",
+    "opciones": [
+      "Limitar el crecimiento de las naciones.",
+      "Reducir los costos en empresas exclusivamente.",
+      "Un plan global para erradicar la pobreza y proteger el medio ambiente."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es un beneficio de fomentar el intraemprendimiento?",
+    "respuesta": "Desarrollar nuevas ideas dentro de una organización.",
+    "opciones": [
+      "Reducir los costos de formación de empleados.",
+      "Desarrollar nuevas ideas dentro de una organización.",
+      "Evitar que los empleados propongan cambios."
+    ]
+  },
+  {
+    "pregunta": "¿Las siglas (I+D) significan?",
+    "respuesta": "Investigación y desarrollo.",
+    "opciones": [
+      "Innovación y diseño.",
+      "Investigación y desarrollo.",
+      "Incremento y datos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es el Design Thinking?",
+    "respuesta": "Un método para empatizar y crear soluciones centradas en el usuario.",
+    "opciones": [
+      "Un software de gestión de proyectos.",
+      "Un método para empatizar y crear soluciones centradas en el usuario.",
+      "Una técnica exclusiva para diseño gráfico."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la competencia digital de “seguridad”?",
+    "respuesta": "Proteger información y manejarla de manera segura en el entorno digital.",
+    "opciones": [
+      "Proteger información y manejarla de manera segura en el entorno digital.",
+      "Aprender a programar.",
+      "Optimizar el diseño de productos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es un sistema de gestión ambiental según la norma ISO?",
+    "respuesta": "Un marco para minimizar impactos ambientales en empresas.",
+    "opciones": [
+      "Una herramienta para desarrollar software.",
+      "Un sistema para medir la productividad laboral.",
+      "Un marco para minimizar impactos ambientales en empresas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la sostenibilidad en el contexto empresarial?",
+    "respuesta": "Adoptar prácticas que no comprometan los recursos para las futuras generaciones.",
+    "opciones": [
+      "Adoptar prácticas que no comprometan los recursos para las futuras generaciones.",
+      "Mejorar únicamente la eficiencia energética en la producción.",
+      "Aumentar las ganancias a corto plazo sin considerar el impacto social."
+    ]
+  },
+  {
+    "pregunta": "¿Las competencias digitales específicas son?",
+    "respuesta": "Las que se desarrollan para conseguir un valor distintivo que facilite obtener un empleo.",
+    "opciones": [
+      "Las que se desarrollan con independencia de las necesidades del mercado laboral.",
+      "Las que se desarrollan para conseguir un valor distintivo que facilite obtener un empleo.",
+      "Las que necesita cualquier persona para desenvolverse en la sociedad actual."
+    ]
+  },
+  {
+    "pregunta": "¿Para hacer realidad los objetivos de desarrollo sostenible es necesaria?",
+    "respuesta": "La colaboración de todos los sectores de la sociedad.",
+    "opciones": [
+      "La actuación de los gobiernos sin tener en cuenta a otros sectores.",
+      "La colaboración de todos los sectores de la sociedad.",
+      "Solamente la intervención de organizaciones no gubernamentales."
+    ]
+  },
+  {
+    "pregunta": "¿Qué característica hace que un modelo de negocio sea sostenible?",
+    "respuesta": "Su enfoque en la satisfacción del cliente.",
+    "opciones": [
+      "Su facilidad de imitación por la competencia.",
+      "La falta de innovación en el tiempo.",
+      "Su enfoque en la satisfacción del cliente."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué es importante analizar las respuestas de una entrevista de problema?",
+    "respuesta": "Para identificar patrones y temas recurrentes.",
+    "opciones": [
+      "Para identificar patrones y temas recurrentes.",
+      "Para confirmar que el cliente necesita el producto.",
+      "Para convencer al cliente de comprar el producto."
+    ]
+  },
+  {
+    "pregunta": "¿Por qué es importante el análisis DAFO?",
+    "respuesta": "Porque ayuda a tomar decisiones estratégicas.",
+    "opciones": [
+      "Porque reemplaza la publicidad.",
+      "Porque ayuda a tomar decisiones estratégicas.",
+      "Porque predice el futuro con certeza."
+    ]
+  },
+  {
+    "pregunta": "¿Qué acción se debe tomar si en las entrevistas de problema no se identifican necesidades reales del cliente?",
+    "respuesta": "Reformular las preguntas y explorar nuevas hipótesis antes de descartar la idea.",
+    "opciones": [
+      "Lanzar el producto sin cambios, asumiendo que los clientes no han expresado sus problemas claramente.",
+      "Reformular las preguntas y explorar nuevas hipótesis antes de descartar la idea.",
+      "Cancelar el proyecto sin buscar más información."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se analiza en un estudio de la competencia?",
+    "respuesta": "Productos, precios y estrategias de otras empresas.",
+    "opciones": [
+      "Solo la ubicación de los competidores.",
+      "Nada, porque la competencia no es importante.",
+      "Productos, precios y estrategias de otras empresas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se estudia en un análisis de mercado?",
+    "respuesta": "La competencia y las tendencias de consumo.",
+    "opciones": [
+      "La competencia y las tendencias de consumo.",
+      "Solo los clientes actuales de la empresa.",
+      "Únicamente los precios de los productos."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es la mejor estrategia para evaluar la viabilidad de una idea de negocio antes de invertir en su desarrollo?",
+    "respuesta": "Realizar entrevistas de problema y estudios de mercado para validar su necesidad.",
+    "opciones": [
+      "Analizar el rendimiento de empresas similares sin hacer estudios propios.",
+      "Realizar entrevistas de problema y estudios de mercado para validar su necesidad.",
+      "Implementarla directamente y evaluar su éxito en el mercado."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se debe hacer antes de lanzar un nuevo producto?",
+    "respuesta": "Realizar un estudio de mercado.",
+    "opciones": [
+      "Crear una publicidad llamativa sin investigar.",
+      "Copiar la estrategia de la competencia.",
+      "Realizar un estudio de mercado."
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa que un modelo de negocio sea flexible?",
+    "respuesta": "Que puede adaptarse a cambios en el mercado.",
+    "opciones": [
+      "Que no tiene ninguna estructura definida.",
+      "Que puede adaptarse a cambios en el mercado.",
+      "Que no necesita modificaciones nunca."
+    ]
+  },
+  {
+    "pregunta": "¿Qué tendencia es importante analizar en el mercado?",
+    "respuesta": "Cambios en los hábitos de consumo.",
+    "opciones": [
+      "La cantidad de empleados en una empresa.",
+      "El clima de la región.",
+      "Cambios en los hábitos de consumo."
+    ]
+  },
+  {
+    "pregunta": "¿Qué aspecto se considera una debilidad en un análisis DAFO?",
+    "respuesta": "Un problema interno que impacta el desempeño.",
+    "opciones": [
+      "Una tendencia de consumo emergente.",
+      "Un cambio en la legislación que afecta la empresa.",
+      "Un problema interno que impacta el desempeño."
+    ]
+  },
+  {
+    "pregunta": "¿Qué se debe hacer al final de una entrevista de problema?",
+    "respuesta": "Presentar una solución y pedir opinión del cliente.",
+    "opciones": [
+      "Presentar una solución y pedir opinión del cliente.",
+      "Solicitar referencias bancarias del cliente.",
+      "Ofrecer descuentos en futuros productos."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es uno de los objetivos principales de la ética empresarial?",
+    "respuesta": "Promover la confianza y los valores en la organización",
+    "opciones": [
+      "Promover la confianza y los valores en la organización",
+      "Maximizar los beneficios a corto plazo",
+      "Aumentar la competitividad mediante publicidad agresiva"
+    ]
+  },
+  {
+    "pregunta": "¿Qué documento hay que obtener para usar un nombre único en la empresa?",
+    "respuesta": "Certificación negativa del nombre",
+    "opciones": [
+      "Licencia de actividad",
+      "Acta de socios",
+      "Certificación negativa del nombre"
+    ]
+  },
+  {
+    "pregunta": "En el proyecto emprendedor, los Business Angels se caracterizan por:",
+    "respuesta": "Ser inversores con experiencia empresarial",
+    "opciones": [
+      "Ser empleados de la startup",
+      "Ser agencias gubernamentales",
+      "Ser inversores con experiencia empresarial"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes factores incrementa el riesgo de fracaso en la transformación digital?",
+    "respuesta": "No integrar los valores culturales de la empresa en el proceso de transformación.",
+    "opciones": [
+      "Utilizar análisis predictivos para detectar oportunidades de mercado.",
+      "No integrar los valores culturales de la empresa en el proceso de transformación.",
+      "Automatizar tareas operativas básicas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué implica la transformación digital?",
+    "respuesta": "Integrar tecnologías digitales en la empresa",
+    "opciones": [
+      "Aumentar únicamente la publicidad online",
+      "Sustituir a todo el personal por robots",
+      "Integrar tecnologías digitales en la empresa"
+    ]
+  },
+  {
+    "pregunta": "¿Qué herramienta se utiliza para evaluar el impacto ambiental de una empresa?",
+    "respuesta": "Matrices de impacto",
+    "opciones": [
+      "Matriz DAFO",
+      "Matrices de impacto",
+      "Benchmarking financiero"
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa un prototipo en Design Thinking?",
+    "respuesta": "Una versión preliminar para probar ideas",
+    "opciones": [
+      "Una versión preliminar para probar ideas",
+      "Un producto final listo para vender",
+      "Un contrato legal"
+    ]
+  },
+  {
+    "pregunta": "Una empresa que adopta prácticas sostenibles consigue, entre otras cosas:",
+    "respuesta": "Mejorar su reputación y atraer talento",
+    "opciones": [
+      "Reducir sus obligaciones legales",
+      "Mejorar su reputación y atraer talento",
+      "Incrementar costes operativos"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una ventaja de usar inteligencia artificial en los negocios?",
+    "respuesta": "Tomar decisiones basadas en datos en tiempo real",
+    "opciones": [
+      "Crear una nueva forma jurídica",
+      "Tomar decisiones basadas en datos en tiempo real",
+      "Eliminar todos los empleos administrativos"
+    ]
+  },
+  {
+    "pregunta": "¿Por qué el proceso de constitución de una empresa puede influir en la forma jurídica elegida?",
+    "respuesta": "Porque la complejidad administrativa puede condicionar la viabilidad inicial del proyecto.",
+    "opciones": [
+      "Porque la complejidad administrativa puede condicionar la viabilidad inicial del proyecto.",
+      "Porque algunas formas jurídicas requieren menos capital, pero más trámites legales.",
+      "Porque los trámites son idénticos para todas las formas jurídicas."
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene la sociedad limitada (SL)?",
+    "respuesta": "Los socios no responden con su patrimonio personal",
+    "opciones": [
+      "Permite emitir acciones en bolsa",
+      "No requiere capital mínimo",
+      "Los socios no responden con su patrimonio personal"
+    ]
+  },
+  {
+    "pregunta": "¿Qué valor es esencial en la ética ambiental empresarial?",
+    "respuesta": "Sostenibilidad",
+    "opciones": [
+      "Sostenibilidad",
+      "Explotación intensiva",
+      "Agresividad comercial"
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la obsolescencia planificada en innovación tradicional?",
+    "respuesta": "Diseñar productos con vida útil limitada.",
+    "opciones": [
+      "Reducir el costo de los materiales.",
+      "Crear productos que duren indefinidamente.",
+      "Diseñar productos con vida útil limitada."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es Scrum?",
+    "respuesta": "Una metodología ágil basada en sprints cortos.",
+    "opciones": [
+      "Un software de gestión empresarial.",
+      "Un método de contabilidad.",
+      "Una metodología ágil basada en sprints cortos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa “difusión de la innovación”?",
+    "respuesta": "Extender una tecnología o idea a diferentes sectores.",
+    "opciones": [
+      "Extender una tecnología o idea a diferentes sectores.",
+      "Reducir costos sin compartir conocimiento.",
+      "Limitar el uso de una innovación a una sola empresa."
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa “emprendimiento social”?",
+    "respuesta": "Crear empresas para abordar problemas sociales.",
+    "opciones": [
+      "Empresas orientadas únicamente a generar ingresos.",
+      "Actividades sin relación con el impacto social.",
+      "Crear empresas para abordar problemas sociales."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es un beneficio de la economía circular?",
+    "respuesta": "Reducir el desperdicio mediante el reciclaje.",
+    "opciones": [
+      "Incrementar costos de producción.",
+      "Depender de materiales desechables.",
+      "Reducir el desperdicio mediante el reciclaje."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la innovación abierta?",
+    "respuesta": "Colaborar con fuentes externas para generar ideas innovadoras.",
+    "opciones": [
+      "Exclusiva para empresas tecnológicas.",
+      "Una metodología cerrada.",
+      "Colaborar con fuentes externas para generar ideas innovadoras."
+    ]
+  },
+  {
+    "pregunta": "¿Qué busca la innovación en marketing?",
+    "respuesta": "Crear nuevas estrategias de promoción y diseño de producto.",
+    "opciones": [
+      "Crear nuevas estrategias de promoción y diseño de producto.",
+      "Solo vender productos existentes.",
+      "Aumentar los costos sin aportar valor."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la gestión de la cadena de suministro con IA?",
+    "respuesta": "Optimizar inventarios y logística mediante análisis de datos.",
+    "opciones": [
+      "Optimizar inventarios y logística mediante análisis de datos.",
+      "Sustituir completamente a los trabajadores humanos.",
+      "Eliminar todos los costos logísticos."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la economía circular?",
+    "respuesta": "Un modelo que fomenta reutilizar y reciclar materiales.",
+    "opciones": [
+      "Un proceso de marketing.",
+      "Un modelo que fomenta reutilizar y reciclar materiales.",
+      "Un sistema de economía lineal."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es un ejemplo de innovación en procesos?",
+    "respuesta": "Introducir nuevas formas de producción.",
+    "opciones": [
+      "Cambiar el nombre de un producto.",
+      "Solo lanzar campañas de marketing.",
+      "Introducir nuevas formas de producción."
+    ]
+  },
+  {
+    "pregunta": "¿La norma ISO 14001 permite a las empresas?",
+    "respuesta": "Identificar, gestionar y minimizar su impacto ambiental.",
+    "opciones": [
+      "Conocer si un nuevo producto o servicio va a ser rentable.",
+      "Gestionar su contabilidad.",
+      "Identificar, gestionar y minimizar su impacto ambiental."
+    ]
+  },
+  {
+    "pregunta": "¿Qué diferencia la innovación sostenible de la tradicional?",
+    "respuesta": "La integración de la sostenibilidad en todo el proceso.",
+    "opciones": [
+      "La integración de la sostenibilidad en todo el proceso.",
+      "La limitación del impacto en el mercado.",
+      "Su enfoque exclusivo en la rentabilidad económica."
+    ]
+  },
+  {
+    "pregunta": "¿Qué es la IA (Inteligencia Artificial)?",
+    "respuesta": "Tecnología que analiza datos y automatiza procesos.",
+    "opciones": [
+      "Tecnología que analiza datos y automatiza procesos.",
+      "Un tipo de innovación en procesos exclusivamente.",
+      "Un software de marketing."
+    ]
+  },
+  {
+    "pregunta": "¿Qué define el término “innovación organizacional”?",
+    "respuesta": "Cambios en la estructura y gestión interna de una empresa.",
+    "opciones": [
+      "Introducción de nuevos productos en el mercado.",
+      "Cambios en la estructura y gestión interna de una empresa.",
+      "Ajuste exclusivo del diseño estético de un producto."
+    ]
+  },
+  {
+    "pregunta": "¿Qué representa el principio de “impacto ambiental”?",
+    "respuesta": "Evaluar cómo afectan los productos al medio ambiente.",
+    "opciones": [
+      "Evaluar cómo afectan los productos al medio ambiente.",
+      "Ignorar las consecuencias ecológicas.",
+      "Utilizar solo recursos reciclados."
+    ]
+  },
+  {
+    "pregunta": "¿Qué son las competencias digitales específicas?",
+    "respuesta": "Habilidades avanzadas para diferenciarse en el mercado laboral.",
+    "opciones": [
+      "Métodos para programar exclusivamente.",
+      "Conceptos básicos para el uso de internet.",
+      "Habilidades avanzadas para diferenciarse en el mercado laboral."
+    ]
+  },
+  {
+    "pregunta": "¿Qué elemento del Mapa del Entorno es clave para detectar oportunidades en mercados emergentes?",
+    "respuesta": "Las tendencias de consumo y cambios en los hábitos del cliente.",
+    "opciones": [
+      "La estructura organizativa de las empresas competidoras.",
+      "Las tendencias de consumo y cambios en los hábitos del cliente.",
+      "El análisis de costos internos de la empresa."
+    ]
+  },
+  {
+    "pregunta": "¿Qué fase de la entrevista de problema permite conocer mejor al cliente?",
+    "respuesta": "Datos demográficos.",
+    "opciones": [
+      "Presentación de la solución.",
+      "Datos demográficos.",
+      "Introducción."
+    ]
+  },
+  {
+    "pregunta": "¿Qué técnica se recomienda para observar el comportamiento de los clientes?",
+    "respuesta": "Observación directa y documentación con imágenes o videos.",
+    "opciones": [
+      "Observación directa y documentación con imágenes o videos.",
+      "Encuestas en línea anónimas.",
+      "Llamadas telefónicas."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es el principal riesgo de un modelo de negocio rígido?",
+    "respuesta": "Limita la capacidad de adaptación a cambios.",
+    "opciones": [
+      "Permite una mejor planificación estratégica.",
+      "Limita la capacidad de adaptación a cambios.",
+      "Reduce la vulnerabilidad frente a la competencia."
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa DAFO en un análisis empresarial?",
+    "respuesta": "Fortalezas, Oportunidades, Debilidades y Amenazas.",
+    "opciones": [
+      "Factores, Oportunidades, Decisiones y Análisis.",
+      "Fortalezas, Oportunidades, Debilidades y Amenazas.",
+      "Finanzas, Organización, Desarrollo y Acciones."
+    ]
+  },
+  {
+    "pregunta": "¿Para qué sirve una entrevista de problema?",
+    "respuesta": "Para entender las necesidades de los clientes.",
+    "opciones": [
+      "Para vender un producto directamente.",
+      "Para entender las necesidades de los clientes.",
+      "Para contratar empleados."
+    ]
+  },
+  {
+    "pregunta": "¿Quién asesora legalmente a los emprendedores durante la constitución?",
+    "respuesta": "El abogado",
+    "opciones": [
+      "El cliente",
+      "El abogado",
+      "El mentor"
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es uno de los factores clave al elegir la forma jurídica de una empresa?",
+    "respuesta": "El número de socios y la responsabilidad patrimonial",
+    "opciones": [
+      "El color del logotipo",
+      "El número de socios y la responsabilidad patrimonial",
+      "La ubicación de la competencia"
+    ]
+  },
+  {
+    "pregunta": "En un análisis financiero, ¿qué combinación de herramientas permite evaluar simultáneamente la situación pasada y la proyección futura de una empresa?",
+    "respuesta": "Presupuesto y análisis horizontal.",
+    "opciones": [
+      "Presupuesto y análisis horizontal.",
+      "Ratio de rentabilidad y auditoría ambiental.",
+      "Flujo de caja y análisis vertical."
+    ]
+  },
+  {
+    "pregunta": "¿Qué significa RSC?",
+    "respuesta": "Responsabilidad Social Corporativa",
+    "opciones": [
+      "Recursos Sociales Comunitarios",
+      "Requisitos de Seguridad Corporativa",
+      "Responsabilidad Social Corporativa"
+    ]
+  },
+  {
+    "pregunta": "Una acción recomendada para fomentar la inclusión en la empresa es:",
+    "respuesta": "Realizar encuestas de clima laboral",
+    "opciones": [
+      "Contratar sin procesos definidos",
+      "Excluir perfiles no tradicionales",
+      "Realizar encuestas de clima laboral"
+    ]
+  },
+  {
+    "pregunta": "¿Qué fase del Design Thinking consiste en generar ideas?",
+    "respuesta": "Idear",
+    "opciones": [
+      "Prototipar",
+      "Idear",
+      "Empatizar"
+    ]
+  },
+  {
+    "pregunta": "¿Qué ventaja tiene la automatización con IA?",
+    "respuesta": "Reducir errores y optimizar procesos en tiempo real.",
+    "opciones": [
+      "Reemplazar por completo a todos los empleados.",
+      "Reducir errores y optimizar procesos en tiempo real.",
+      "Aumentar costos en producción."
+    ]
+  },
+  {
+    "pregunta": "¿Una de las estrategias para fomentar el trabajo colaborativo en una organización es?",
+    "respuesta": "Promover la comunicación abierta para que los colaboradores compartan sus opiniones y den sus ideas.",
+    "opciones": [
+      "Limitar las aportaciones de los miembros para que el debate no se disperse.",
+      "Promover la comunicación abierta para que los colaboradores compartan sus opiniones y den sus ideas.",
+      "Evitar que se den ideas que no se hayan implementado antes en la organización."
+    ]
+  },
+  {
+    "pregunta": "¿Cuál es una característica del liderazgo emprendedor?",
+    "respuesta": "Capacidad para inspirar equipos hacia metas innovadoras.",
+    "opciones": [
+      "Mantener un enfoque estricto sin flexibilidad.",
+      "Evitar riesgos calculados.",
+      "Capacidad para inspirar equipos hacia metas innovadoras."
+    ]
+  }
+]
